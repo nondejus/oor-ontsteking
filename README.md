@@ -1,1 +1,13 @@
-# oor-ontsteking
+------------------
+| oor-ontsteking |
+------------------
+
+
+# l-type calcium channel
+https://en.wikipedia.org/wiki/L-type_calcium_channel
+
+# oor
+https://nl.wikipedia.org/wiki/Oor
+
+# ontsteking
+https://nl.wikipedia.org/wiki/Ontsteking_(geneeskunde)
